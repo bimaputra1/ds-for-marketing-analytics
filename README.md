@@ -1,2 +1,3 @@
-# ds-for-marketing-analytics
-Application of Data Science for Marketing Analytics
+# Data Science For Marketing Analytics
+
+This project is an example of data science application for Marketing Analytics.
